@@ -1,3 +1,4 @@
+https://www.markdownguide.org/basic-syntax/
 # latihanGithub
 Latihan Github
 ==
