@@ -1,4 +1,4 @@
-**https://www.markdownguide.org/basic-syntax/
+**https://www.markdownguide.org/basic-syntax/**
 # latihanGithub
 Latihan Github
 ==
@@ -7,3 +7,4 @@ Latihan untuk membuat file Readme
 - Belajar 1
 - Belajar 2
 - Belajar 3
+
