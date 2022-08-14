@@ -10,5 +10,7 @@ Latihan untuk membuat file Readme
 - Belajar 4
 - Belajar 5
 - Belajar 6
+- Belajar 7
+- 
 
 aa
